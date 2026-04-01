@@ -1,0 +1,7 @@
+.claude/
+failed.json
+metadata.json
+photos/
+photos_clean/
+watermark_masks/
+watermark_verify/
