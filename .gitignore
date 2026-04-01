@@ -5,3 +5,4 @@ photos/
 photos_clean/
 watermark_masks/
 watermark_verify/
+__pycache__/
