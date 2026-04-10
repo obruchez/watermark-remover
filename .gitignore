@@ -1,8 +1,13 @@
 .claude/
+.idea/
 failed.json
 metadata.json
 photos/
 photos_clean/
+photos_v4/
+photos_v5/
 watermark_masks/
+watermark_masks_v4/
+watermark_masks_v5/
 watermark_verify/
 __pycache__/
